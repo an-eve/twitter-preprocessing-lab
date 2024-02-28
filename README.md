@@ -1,5 +1,5 @@
-We are **Anna** and **Alicia García**
-<br>anna.@estudiantat.upc.edu
+We are **Anna Putina** and **Alicia García**
+<br>anna.putina@estudiantat.upc.edu
 <br>alicia.garcia.sanz@estudiantat.upc.edu
 
 # LAB 2
